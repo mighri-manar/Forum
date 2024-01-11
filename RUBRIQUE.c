@@ -1,5 +1,5 @@
 //
-// Created by Manar Mighri and Mehdi Rejeb Kaabia and Rania Fathallah on 18/12/2023.
+// Created by Manar Mighri on 18/12/2023.
 //
 
 #include "RUBRIQUE.h"
