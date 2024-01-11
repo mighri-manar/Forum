@@ -1,5 +1,5 @@
 //
-// Created by Manar Mighri and Mehdi Rejeb Kaabia and Rania Fathallah on 14/11/2023.
+// Created by Manar Mighri on 14/11/2023.
 //
 #include<stdio.h>
 #include<stdlib.h>
