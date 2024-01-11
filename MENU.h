@@ -1,5 +1,5 @@
 //
-// Created by manar mighri and Mehdi Rejeb Kaabia and Rania Fathallah on 21/11/2023.
+// Created by manar mighri on 21/11/2023.
 //
 
 #ifndef STRUCTUREMESSAGE_MENU_H
