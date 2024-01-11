@@ -1,5 +1,5 @@
 //
-// Created by Manar Mighri and Mehdi Rejeb Kaabia and Rania Fathallah on 15/11/2023.
+// Created by Manar Mighri on 15/11/2023.
 //
 
 #include "PROFIL.h"
@@ -58,7 +58,6 @@ void Input_profil(PROFIL* P)
 
 void Show_profil(PROFIL P)
 {
-    printf("\nInscription ID: %d\n",P.ID);
     printf("\nLast name: %s\n", P.last_name);
     printf("\nFirst name: %s\n",P.first_name);
     printf("\nBirth date:\n");
