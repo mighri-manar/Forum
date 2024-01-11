@@ -1,5 +1,5 @@
 
-// created by Manar Mighri and Mehdi Rejeb Kaabia and Rania fathallah on 16/11/2023
+// created by Manar Mighri on 16/11/2023
 
 #include"FORUM.h"
 #include"MENU.h"
