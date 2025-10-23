@@ -292,6 +292,7 @@ Comprehensive cleanup routine:
 - **File I/O**: Binary file operations (`fopen`, `fread`, `fwrite`)
 - **Memory Management**: Manual allocation/deallocation
 - **Platform**: POSIX-compliant systems (Linux/Unix)
+- **Tools**: GDB for debugging, Valgrind for memory inspection
 
 ## 📚 Learning Outcomes
 
